@@ -1,4 +1,4 @@
-Insertion Sort Projesi patika.dev
+Insertion Sort Projesi patika.dev  https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
 
 
 
