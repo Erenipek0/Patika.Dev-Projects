@@ -1,5 +1,5 @@
 
-Merge Sort Projesi  patika.dev
+Merge Sort Projesi  patika.dev  https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje
 
 [16, 21, 11, 8, 12, 22]  Merge Sort 
 
